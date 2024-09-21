@@ -1,6 +1,8 @@
 # Blum - All Crypto — One App
 Blum brings you every coin you need. Just one place, no more switching between multiple platforms.
 
+<img src="https://github.com/jonhan8352/Blum/blob/main/images/blum.JPG">
+
 ## Forks Explained
 Answer: Go Get
 
