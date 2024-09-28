@@ -20,3 +20,12 @@ Answer：CRYPTOBLUM
 
 ## Say No to Rug Pull
 Answer：superblum
+
+## Liquidity Pools Guide
+Answer：BLUMERSSS
+
+## $2.5M+ DOGS Airdrop
+Answer：Happydogs
+
+> [!NOTE]
+> *Latest Updates: 28th September 2024*
