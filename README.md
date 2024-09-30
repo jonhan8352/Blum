@@ -27,5 +27,8 @@ Answer：BLUMERSSS
 ## $2.5M+ DOGS Airdrop
 Answer：Happydogs
 
+## Doxxing? What's that?
+Answer: Nodoxxing
+
 > [!NOTE]
-> *Latest Updates: 28th September 2024*
+> *Latest Updates: 1st October 2024*
