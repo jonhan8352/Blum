@@ -24,6 +24,9 @@ Answer：superblum
 ## Liquidity Pools Guide
 Answer：BLUMERSSS
 
+## What are AMMs?
+Answer: Cryptosmart
+
 ## $2.5M+ DOGS Airdrop
 Answer：Happydogs
 
