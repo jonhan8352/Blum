@@ -30,5 +30,11 @@ Answer：Happydogs
 ## Doxxing? What's that?
 Answer: Nodoxxing
 
+## Pre-Market Trading?
+Answer: Wowblum
+
+## How to Memecoin?
+Answer: Memeblum
+
 > [!NOTE]
-> *Latest Updates: 1st October 2024*
+> *Latest Updates: 7th October 2024*
