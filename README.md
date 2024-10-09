@@ -39,5 +39,8 @@ Answer: Wowblum
 ## How to Memecoin?
 Answer: Memeblum
 
+## Token Burning: How & WHy?
+Answer: Onfire
+
 > [!NOTE]
-> *Latest Updates: 7th October 2024*
+> *Latest Updates: 9th October 2024*
