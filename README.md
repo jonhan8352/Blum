@@ -42,5 +42,14 @@ Answer: Memeblum
 ## Token Burning: How & WHy?
 Answer: Onfire
 
+## Crypto Terms. Part 1
+Answer: BLUMEXPLORER
+
+## How to trade Perps?
+Answer: Cryptofan
+
+## Sharding Explained
+Answer: Blumtastic
+
 > [!NOTE]
-> *Latest Updates: 9th October 2024*
+> *Latest Updates: 18th October 2024*
