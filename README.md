@@ -51,5 +51,15 @@ Answer: Cryptofan
 ## Sharding Explained
 Answer: Blumtastic
 
+## DeFi Explained
+Answer: Blumforce
+
+## How To Find Altcoins?
+Answer: Ultrablum
+
+## Crypto Slang. Part 1
+Answer: Blumstorm
+
+
 > [!NOTE]
-> *Latest Updates: 18th October 2024*
+> *Latest Updates: 25th October 2024*
