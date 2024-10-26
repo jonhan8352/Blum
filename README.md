@@ -60,6 +60,9 @@ Answer: Ultrablum
 ## Crypto Slang. Part 1
 Answer: Blumstorm
 
+## What is On-chain Analysis?
+Asnwer: Blumextra
+
 
 > [!NOTE]
-> *Latest Updates: 25th October 2024*
+> *Latest Updates: 26th October 2024*
