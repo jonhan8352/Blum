@@ -63,6 +63,15 @@ Answer: Blumstorm
 ## What is On-chain Analysis?
 Asnwer: Blumextra
 
+## Choosing a Crypto Exchang...
+Answer: Cryptozone
+
+## Node Sales in Crypto
+Answer: Blumify
+
+## What’s Crypto DEX?
+Answer: Dexxx
+
 
 > [!NOTE]
-> *Latest Updates: 26th October 2024*
+> *Latest Updates: 9th November 2024*
