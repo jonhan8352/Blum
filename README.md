@@ -72,6 +72,24 @@ Answer: Blumify
 ## What’s Crypto DEX?
 Answer: Dexxx
 
+## Bitcoin Rainbow Chart?
+Answer:
+
+## Token Burning: How & Why?
+Answer: 
+
+## Understanding Gas Fees
+Answer: Cryptogas
+
+## What is Slippage?
+Answer: Cryptobuzz
+
+## WHat's Next for DeFi?
+Answer: Blumnow
+
+## Smart Contracts 101
+Answer: Smartblum
+
 
 > [!NOTE]
-> *Latest Updates: 9th November 2024*
+> *Latest Updates: 19th November 2024*
