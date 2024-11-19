@@ -73,10 +73,10 @@ Answer: Blumify
 Answer: Dexxx
 
 ## Bitcoin Rainbow Chart?
-Answer:
+Answer: Soblum
 
 ## Token Burning: How & Why?
-Answer: 
+Answer: Onfire
 
 ## Understanding Gas Fees
 Answer: Cryptogas
