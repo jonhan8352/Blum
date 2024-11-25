@@ -90,6 +90,12 @@ Answer: Blumnow
 ## Smart Contracts 101
 Answer: Smartblum
 
+## Crypto SLang. Part 3
+Answer: Booblum
+
+## Regulation: Yay or Nay?
+Answer: Blumsss
+
 
 > [!NOTE]
-> *Latest Updates: 19th November 2024*
+> *Latest Updates: 25th November 2024*
