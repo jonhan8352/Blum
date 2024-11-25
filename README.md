@@ -90,7 +90,7 @@ Answer: Blumnow
 ## Smart Contracts 101
 Answer: Smartblum
 
-## Crypto SLang. Part 3
+## Crypto Slang. Part 3
 Answer: Booblum
 
 ## Regulation: Yay or Nay?
